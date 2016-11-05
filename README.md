@@ -1,5 +1,8 @@
 # the Accountant Contest
 
+
+![alt tag](https://raw.githubusercontent.com/usernameHed/accountant/master/1.png)
+
 <b>The Goal</b>: Take out the armed forces in search of incriminating data. The more data gets saved, the higher you score. Other aspects of your performance will also affect your score.
 
 This contest is a 2-week optimization challenge.
